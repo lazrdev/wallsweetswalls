@@ -1,5 +1,19 @@
 [
 {
+      "name": "Circular Blur",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/gradient/circular_blur.png",
+      "collections": "Flora",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+    },
+{
+      "name": "Glassify",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/gradient/glassify.png",
+      "collections": "Gradient",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+    },
+{
       "name": "Stacked",
       "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/shapes/stacked.png",
       "collections": "Shapes",
