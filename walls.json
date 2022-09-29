@@ -1,8 +1,15 @@
 [
 {
+      "name": "Sunny Day",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/abstract/sunny_day.png",
+      "collections": "Abstract",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+    },
+{
       "name": "Circular Blur",
       "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/gradient/circular_blur.png",
-      "collections": "Flora",
+      "collections": "Gradient",
       "author": "lazrdev",
       "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
     },
