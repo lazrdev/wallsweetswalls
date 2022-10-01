@@ -1,33 +1,68 @@
 [
-{
+ {
+      "name": "Frosty 2",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/shapes/frosty2.png",
+      "collections": "Shapes",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     },
+ {
+      "name": "Frosty",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/shapes/frosty.png",
+      "collections": "Shapes",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     },
+ {
+      "name": "ArrowUp",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/shapes/arrowup.png",
+      "collections": "Shapes",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     },
+     {
+      "name": "Leafline",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/shapes/leafline.png",
+      "collections": "Shapes",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     },
+     {
+      "name": "W",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/shapes/w.png",
+      "collections": "Shapes",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     },
+     {
       "name": "Sunny Day",
       "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/abstract/sunny_day.png",
       "collections": "Abstract",
       "author": "lazrdev",
       "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
-    },
-{
+     },
+     {
       "name": "Circular Blur",
       "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/gradient/circular_blur.png",
       "collections": "Gradient",
       "author": "lazrdev",
       "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
     },
-{
+    {
       "name": "Glassify",
       "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/gradient/glassify.png",
       "collections": "Gradient",
       "author": "lazrdev",
       "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
     },
-{
+    {
       "name": "Stacked",
       "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/shapes/stacked.png",
       "collections": "Shapes",
       "author": "lazrdev",
       "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
     },
-  {
+    {
       "name": "Shenhe",
       "url": "https://file.apurixz.com/user_upload/Shenhe(Genshin_Impact).png",
       "collections": "Anime",
