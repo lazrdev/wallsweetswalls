@@ -1,5 +1,82 @@
 [
       {
+      "name": "Light Beams",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/shapes/light_beams.png",
+      "collections": "Shapes",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     }, 
+      {
+      "name": "Seaweed",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/shapes/seaweed.png",
+      "collections": "Shapes",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     }, 
+      {
+      "name": "Red Seaweed",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/shapes/red_seaweed.png",
+      "collections": "Shapes",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     }, 
+      {
+      "name": "Fans 2",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/shapes/fans2.png",
+      "collections": "Shapes",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     }, 
+      {
+      "name": "Fans",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/shapes/fans.png",
+      "collections": "Shapes",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     },     
+      {
+      "name": "Papers 4",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/gradient/papers4.png",
+      "collections": "Gradient",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     },
+      {
+      "name": "Papers 3",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/gradient/papers3.png",
+      "collections": "Gradient",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     },
+      {
+      "name": "Papers 2",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/gradient/papers2.png",
+      "collections": "Gradient",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     },
+      {
+      "name": "Papers",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/gradient/papers.png",
+      "collections": "Gradient",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     },
+      {
+      "name": "Flower Power 2",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/flora/flower_power_2.png",
+      "collections": "Flora",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     },
+      {
+      "name": "Flower Power",
+      "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/flora/flower_power.png",
+      "collections": "Flora",
+      "author": "lazrdev",
+      "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+     },
+      {
       "name": "Aurora Purple",
       "url": "https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/gradient/aurora_purple.png",
       "collections": "Gradient",
